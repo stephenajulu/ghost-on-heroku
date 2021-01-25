@@ -6,5 +6,4 @@ content/logs/
 config.production.json
 content/data/ghost-local.db
 
-content/themes/*
 !content/themes/.gitkeep
